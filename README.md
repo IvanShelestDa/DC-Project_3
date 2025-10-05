@@ -1,6 +1,7 @@
 # DC-Project_3 — Analyzing Nobel Prize Data
 
 **Author:** Completed independently by Ivan Shelest
+
 **Based on DataCamp project:** [Visualizing the History of Nobel Prize Winners](https://app.datacamp.com/learn/projects/1888)
 
 ---
